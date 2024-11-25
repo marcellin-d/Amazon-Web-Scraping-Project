@@ -71,10 +71,8 @@ This project is for **educational purposes only**.
 ## 📫 Contact
 
 For questions or suggestions, feel free to reach out:  
-- **Name**: [Marcellin DJAMBO]  
-- **Email**: [djambomarcellin@gmail.com]
+- **Name**: Marcellin DJAMBO
+- **Email**: djambomarcellin@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/marcellindjambo)
 
 ---
-
-Would you like me to generate a `requirements.txt` file or assist with any other project files?
