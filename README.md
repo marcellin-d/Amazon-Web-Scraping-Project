@@ -41,7 +41,7 @@ Before running the project, ensure the following are installed:
 ---
 
 ## 🔧 Usage
-1. **Install all required libraries 
+1. **Install all required libraries**
 2. **Run the notebook**:  
    Execute the notebook to collect data:  
 
